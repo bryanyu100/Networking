@@ -1,1 +1,10 @@
+# 1. DHCPDISCOVER
 
+
+# 2. DHCPOFFER
+
+
+# 3. DHCPREQUEST
+
+
+# 4. DHCPACK
