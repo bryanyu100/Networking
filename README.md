@@ -1,2 +1,2 @@
 # Networking
-This repository contains my upcoming networking notes and projects.
+This repository contains my networking notes and projects.
